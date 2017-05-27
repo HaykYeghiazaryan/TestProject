@@ -1,3 +1,3 @@
 var testFunction = function() {
-	console.log("Hello");
+	console.log("Hello World");
 }
